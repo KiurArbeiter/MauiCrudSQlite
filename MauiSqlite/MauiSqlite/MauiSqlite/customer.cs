@@ -1,12 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using SQLite;
+
 
 namespace MauiSqlite
 {
-    internal class customer
+    [Table("customer")]
+    public class Customer
     {
+        [PrimaryKey]
+        [AutoIncrement]
+        [Column("id")]
+        public int Id { get; set; }
+        public string CustomerName { get; set; }
+        public string Mobile {  get; set; }
+        public string Email { get; set; }
     }
 }
