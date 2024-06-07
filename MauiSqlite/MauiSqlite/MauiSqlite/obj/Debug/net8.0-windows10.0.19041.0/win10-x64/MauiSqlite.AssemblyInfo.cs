@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MauiSqlite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+82c5a5ac82461467b6716010873164c4290a8c76")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+2f03ed8e9debc8817832eee85b050ced5e5d67a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("MauiSqlite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MauiSqlite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
